@@ -20,9 +20,11 @@ npm run build
 npm run test:unit
 ```
 
-### Lints and fixes files
+### Plugins
 ```
-npm run lint
+vue-router
+vue-i18n
+vuetify
 ```
 
 ### Customize configuration
